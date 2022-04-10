@@ -18,6 +18,7 @@ To run the example notebook, the following Python packages are required other th
 
 * [astropy](http://www.astropy.org)
 * [TensorFlow](https://www.tensorflow.org/)
+* [Scikit-learn](https://scikit-learn.org/)
 
 
 
