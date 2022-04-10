@@ -1,5 +1,5 @@
 # GraphGAN
-This is a repo for training a Graph Convolutional Neural Network to learn and predict galaxy alignments in a hydrosimulation such as IllustrisTNG.
+This is a repo for training a Graph Convolutional Generative Adversarial Network to learn and predict galaxy alignments in a hydrosimulation such as IllustrisTNG.
 
 The general
 idea is that we have list of features (orange box) that are relevant
